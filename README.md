@@ -1,4 +1,4 @@
-# Payroll-Management-System
+# PayRollGen
 
 A simple Payroll Management System where you can 
 
